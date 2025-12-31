@@ -1,0 +1,1 @@
+Proper attribution is required when using the data, citing it as ``Wenzhou Sodium Degradation Data'', and cite the source article: "Jiahao He, et al. Transfer from lithium to sodium: promoting battery lifetime prognosis application. 2026, EES Batteries''
