@@ -2,7 +2,7 @@
 
 Proper attribution is required when using the sodium-ion battery data, citing it as `Wenzhou Sodium-ion Battery Degradation Data'', and cite the source article: "Jiahao He, et al. Transfer from lithium to sodium: promoting battery lifetime prognosis application. 2026, EES Batteries, [DOI: 10.2139/ssrn.5385853](https://doi.org/10.2139/ssrn.5385853) '' <br> 
 
-Please name the Lithium-ion batteries data source as "Wenzhou Pack Degradation Data" and cite the source article: "Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2025, [DOI: 10.2139/ssrn.5385853](https://doi.org/10.2139/ssrn.5385853)'' <br>
+Please name the Lithium-ion batteries data source as "Wenzhou Pack Degradation Data" and cite the source article: "Dongzhen Lyu, et al. Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition. Applied Energy, 2025, [DOI: 10.1016/j.apenergy.2024.124290](https://doi.org/10.1016/j.apenergy.2024.124290 )'' <br>
 
 The dataset is available at the following URL under the condition that proper attribution to the original sources is provided: https://github.com/lvdongzhen/  <br>
 
