@@ -7,11 +7,11 @@ Please name the Lithium-ion batteries data source as "Wenzhou Pack Degradation D
 The dataset is available at the following URL under the condition that proper attribution to the original sources is provided: https://github.com/lvdongzhen/  <br>
 
 ***Data Storage Location***  <br>
-GitHub: https://github.com/lvdongzhen/Wenzhou-Pack-Degradation-Data   <br>
-ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu   <br>
-Onedrive: https://1drv.ms/f/s!AnQLciP1URipkoZvx2CWRv0aOBhG9A?e   <br>
-X_MOL Personal Page: https://www.x-mol.com/groups/DongzhenLyu  <br>
-Torrent(种子下载)：https://wwqn.lanzoul.com/b00mpeez5c (PWD:dr1x)  <br>
+GitHub at ( https://github.com/lvdongzhen ) <br>
+ResearchGate at ( https://www.researchgate.net/profile/Dongzhen-Lyu ) <br>
+X_MOL Personal Page at ( https://www.x-mol.com/groups/DongzhenLyu/news ) <br>
+OneDrive download at ( https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg ) <br>
+Torrent(种子下载)：https://wwqn.lanzoul.com/b00mpeez5c (PWD:dr1x) <br>
 
 ***Disclaimer***  <br>
 Users bear the risk of using the data and code provided here. The author makes no express or implied representations or warranties regarding the completeness, accuracy, reliability, applicability, or availability of the data, code, or related graphics contained in this document. In no event shall the author be liable for any direct, indirect, or consequential losses or damages, including but not limited to loss of data or profits resulting from the use of this data and code.
@@ -44,11 +44,11 @@ Dongzhen Lyu,et al. Cumulative-Informed Prognostics for Scenario Symmetrizing: A
 锂离子电池数据请命名为“WZU成组电池退化数据”，并引用来源文章：“Dongzhen Lyu 等，Transfer-Driven Prognosis from Battery Cells to Packs: An Application with Adaptive Differential Model Decomposition，Applied Energy，2025, [DOI: 10.1016/j.apenergy.2024.124290](https://doi.org/10.1016/j.apenergy.2024.124290 )”。  <br>
 
 ***数据存储位置***  <br>
-GitHub: https://github.com/lvdongzhen/Wenzhou-Pack-Degradation-Data   <br>
-ResearchGate: https://www.researchgate.net/profile/Dongzhen-Lyu   <br>
-Onedrive: https://1drv.ms/f/s!AnQLciP1URipkoZvx2CWRv0aOBhG9A?e   <br>
-X_MOL个人主页: https://www.x-mol.com/groups/DongzhenLyu  <br>
-种子下载：https://wwqn.lanzoul.com/b00mpeez5c (密码:dr1x)  <br>
+GitHub at ( https://github.com/lvdongzhen ) <br>
+ResearchGate at ( https://www.researchgate.net/profile/Dongzhen-Lyu ) <br>
+X_MOL Personal Page at ( https://www.x-mol.com/groups/DongzhenLyu/news ) <br>
+OneDrive download at ( https://1drv.ms/f/s!AnQLciP1URipksZQPfoVLhdf67Y8mg ) <br>
+Torrent(种子下载)：https://wwqn.lanzoul.com/b00mpeez5c (PWD:dr1x) <br>
 
 ***免责声明***  <br>
 用户自行承担使用此处提供的数据和代码的风险。作者对本文包含的数据和代码或相关图形的完整性、准确性、可靠性、适用性或可用性不作任何明示或暗示的陈述或保证。在任何情况下，作者均不对任何直接、间接或后果性损失或损害负责，包括但不限于因使用此数据和代码而导致的任何数据丢失或利润损失。
