@@ -1,3 +1,4 @@
+***Available also at Kaggle: https://www.kaggle.com/dongzhenlyu/datasets***
 # License of Wenzhou Sodium-ion Battery Degradation Data
 
 Proper attribution is required when using the sodium-ion battery data, citing it as `Wenzhou Sodium-ion Battery Degradation Data'', and cite the source article: "Jiahao He, et al. Transfer from lithium to sodium: promoting battery lifetime prognosis application. 2026, EES Batteries, [DOI: 10.2139/ssrn.5385853](https://doi.org/10.2139/ssrn.5385853) '' <br> 
